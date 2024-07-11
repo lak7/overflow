@@ -8,12 +8,7 @@ import {
 import React from "react";
 
 const Home = () => {
-  return (
-    <SignedIn>
-      <h1>PUSSYnDICK</h1>
-      <UserButton />
-    </SignedIn>
-  );
+  return <h1>DICK</h1>;
 };
 
 export default Home;
