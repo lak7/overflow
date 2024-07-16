@@ -8,7 +8,7 @@ import {
 import React from "react";
 
 const Home = () => {
-  return <h1>DICK</h1>;
+  return <></>;
 };
 
 export default Home;
